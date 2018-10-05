@@ -16,3 +16,11 @@ and my strange `experiments`._
 >Throughout the sources i will comment out `main things and interesting facts`
 
 >You are free to `suggest better solutions` that i will leave in sources as comments or replace my own implementation
+
+### Books
+* `Scala in Action`
+* `"Functional Programming in Scala" MEAP` - **The Red Book**
+* `Advanced Scala with Cats`
+
+### Links
+* https://github.com/alexandru/scala-best-practices
